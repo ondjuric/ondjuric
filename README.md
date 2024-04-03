@@ -6,7 +6,6 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ondjuric)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=blue&logo=Twitter&logoColor=white)](https://twitter.com/ondjuric)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olgicadjuric/)
-![Profile views](https://gpvc.arturio.dev/ondjuric)
 
 <!---
 ondjuric/ondjuric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
